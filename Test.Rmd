@@ -29,4 +29,6 @@ summary(cars)
 plot(pressure)
 ```
 
-will this appear in the main branch?
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+test for pull request.
